@@ -42,6 +42,11 @@
     <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
 
+    <!-- Description for incoming calls that were blacklisted -->
+    <string name="type_blacklist">Blacklisted call</string>
+    <string name="menu_add_to_blacklist">Add to blocked caller list</string>
+    <string name="toast_added_to_blacklist">%s added to blocked caller list.</string>
+
     <string name="incall_vibration_category_key" translatable="false">dialer_general_incall_vibration_category_key</string>
     <string name="incall_vibration_category_title">In-call vibration</string>
     <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
