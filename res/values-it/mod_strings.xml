@@ -38,5 +38,8 @@
     <string name="incall_vibrate_45_title">Vibra ogni minuto</string>
     <string name="incall_vibrate_45_summary">Vibra ogni 45 secondi durante le chiamate in uscita</string>
 
-    <string name="show_call_history">View full call history</string>
+    <string name="show_call_history">Visualizza cronologia chiamate completa</string>
+    
+    <string name="call_log_action_block">Blocca chiamante</string>
+    <string name="call_log_action_unblock">Chiamante bloccato</string>
 </resources>
