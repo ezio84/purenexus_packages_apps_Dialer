@@ -31,15 +31,15 @@
   <string name="people_lookup_provider_title">People lookup provider</string>
   <string name="reverse_lookup_provider_title">Reverse lookup provider</string>
   <!-- Proximity speaker -->
-  <string name="speaker_settings_label">Proximity speakerphone</string>
-  <string name="prox_auto_speaker_title">Automatic proximity speakerphone</string>
+  <string name="speaker_settings_label">接近擴音</string>
+  <string name="prox_auto_speaker_title">接近自動擴音</string>
   <string name="prox_auto_speaker_summary">Enable speakerphone automatically when your phone is removed from your ear</string>
-  <string name="prox_auto_speaker_delay_title">Speakerphone delay</string>
-  <string name="prox_auto_speaker_delay_dialog_title">Speakerphone delay in (ms)</string>
+  <string name="prox_auto_speaker_delay_title">擴音延遲</string>
+  <string name="prox_auto_speaker_delay_dialog_title">擴音延遲 （毫秒）</string>
   <string name="prox_auto_speaker_delay_summary">Speakerphone will be activated in <xliff:g id="number">%d</xliff:g> ms</string>
   <string name="prox_auto_speaker_incall_only_title">僅限通話中</string>
-  <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
-  <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
+  <string name="prox_auto_speaker_incall_only_summary_on">僅在電話接通時啟用麥克風</string>
+  <string name="prox_auto_speaker_incall_only_summary_off">持續啟用麥克風 （預設）</string>
   <!-- Description for incoming calls that were blacklisted -->
   <string name="type_blacklist">被列入黑名單的電話</string>
   <string name="menu_add_to_blacklist">增加至黑名單</string>
