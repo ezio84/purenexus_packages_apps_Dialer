@@ -22,8 +22,8 @@
     <string name="call_log_action_send_message">Invia messaggio</string>
 
     <!-- Title for the call log list item that brings users to the full call history when clicked -->
-    <string name="show_call_history">View full call history</string>
+    <string name="show_call_history">Visualizza cronologia completa chiamate</string>
 
     <!-- Menu item used to add a number from the call log to contacts -->
-    <string name="recentCalls_addToContact">Add to a contact</string>
+    <string name="recentCalls_addToContact">Aggiungi a contatto</string>
 </resources>
